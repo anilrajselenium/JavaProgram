@@ -15,7 +15,7 @@ public class CalculatorApp {
 		
 		System.out.println("The addition of "+a+" and "+b+" is: "+calculator.add(a, b));
 		System.out.println("The addition of "+a+" and "+b+" is: "+calculator.substract(a, b));
-				System.out.println(calculator.);
+//				System.out.println(calculator.);
 	}
 
 }
